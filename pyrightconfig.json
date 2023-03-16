@@ -1,0 +1,13 @@
+{
+  "pythonVersion": "3.9",
+  "venvPath": "/home/user/.local/share/virtualenvs",
+  "venv": "project-name",
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        "."
+      ]
+    }
+  ]
+}
